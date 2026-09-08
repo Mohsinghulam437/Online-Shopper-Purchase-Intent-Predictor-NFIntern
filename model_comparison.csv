@@ -1,0 +1,16 @@
+model,metric,score
+Logistic Regression,accuracy,0.841
+Logistic Regression,precision (Purchase),0.4913
+Logistic Regression,recall (Purchase),0.7435
+Logistic Regression,f1 (Purchase),0.5917
+Logistic Regression,roc_auc,0.893
+Random Forest,accuracy,0.8682
+Random Forest,precision (Purchase),0.5527
+Random Forest,recall (Purchase),0.7827
+Random Forest,f1 (Purchase),0.6479
+Random Forest,roc_auc,0.9073
+XGBoost,accuracy,0.8783
+XGBoost,precision (Purchase),0.584
+XGBoost,recall (Purchase),0.7461
+XGBoost,f1 (Purchase),0.6552
+XGBoost,roc_auc,0.92
