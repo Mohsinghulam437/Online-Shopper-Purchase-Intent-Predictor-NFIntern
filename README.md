@@ -2,7 +2,7 @@
 
 Neuro Five Solutions Internship — Task 11 (Capstone Project)
 
-**🔗 Live app: _[add your Streamlit Community Cloud link here after deploying — see "Deploying" below]_**
+**🔗 Live app: https://euzaxxrbgjuux5sgcqqlmf.streamlit.app/
 
 ## Problem statement
 
